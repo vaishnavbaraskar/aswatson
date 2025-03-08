@@ -1,0 +1,453 @@
+identifier,asset_type,instruction,eligible_for_bounty,eligible_for_submission,availability_requirement,confidentiality_requirement,integrity_requirement,max_severity,system_tags,created_at,updated_at
+app.marionnaud.ro,URL,This is the API server of the Marionnaud mobile app in Romania,true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+blog.watsons.com.tr,URL,This is the wordpress blog for Watsons Turkey. This asset is regarded as (Tier 3) subdomain.,true,true,low,low,low,medium,Wordpress,2023-03-27 08:46:10 UTC,2024-09-12 08:06:53 UTC
+www.watsons.co.th,URL,"This is our online retail platform for health and beauty products in Thailand. 
+If you are testing a functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 13:21:16 UTC
+https://www.iciparisxl.be/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,medium,Wordpress,2023-03-14 15:03:39 UTC,2025-01-28 08:50:10 UTC
+app.superdrug.com,URL,This is the API server for the Superdrug mobile app,true,true,high,high,high,critical,,2023-03-14 15:25:16 UTC,2023-07-13 09:22:16 UTC
+mapi.moneyback.com.hk,URL,This is the API Server for our MoneyBack Mobile App,true,true,high,high,high,critical,,2023-03-15 16:18:36 UTC,2023-07-13 09:22:32 UTC
+https://www.kruidvat.nl/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,medium,Wordpress,2023-03-14 14:03:26 UTC,2025-01-28 09:02:35 UTC
+Kruidvat.Belgium.iOS,APPLE_STORE_APP_ID,"This is our Dutch online retail mobile app for Belgium customers. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+This app is similar to other apps (Such as Superdrug). Please keep in mind that issues might be considered duplicates if it is reported on another website already.
+App Link
+https://apps.apple.com/be/app/kruidvat/id1151434781",true,true,high,high,high,critical,,2023-03-15 16:24:41 UTC,2023-07-13 09:22:32 UTC
+www.watsons.com.tr,URL,"This is our Turkish online retail platform for health and beauty products. 
+If you are testing a functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-27 08:46:10 UTC,2024-09-12 13:24:23 UTC
+www.watsons.com.hk,URL,"This is our online retail platform for health and beauty products in Hong Kong. 
+If you are testing a functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 13:22:02 UTC
+Marionnaud.Italy.Android,GOOGLE_PLAY_APP_ID,"This is our Marionnaud (Android) app in Italy. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=it.marionnaud.customer",true,true,high,high,high,critical,,2023-03-15 14:18:44 UTC,2023-07-13 09:22:23 UTC
+Watsons.Singapore.Android,GOOGLE_PLAY_APP_ID,"This is our Watsons Singapore Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.watsons.sg.android",true,true,high,high,high,critical,,2023-03-17 05:30:06 UTC,2023-07-13 09:22:37 UTC
+app.marionnaud.hu,URL,This is the API server of the Marionnaud mobile app in Hungary,true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+www.watsons.com.sg,URL,"This is our online retail platform for health and beauty products in Singapore. 
+If you are testing a functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-17 10:10:20 UTC,2024-09-12 13:23:29 UTC
+app.marionnaud.it,URL,This is the API server of the Marionnaud mobile app in Italy,true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+PNS (subdomains),OTHER,"This asset is specifically for PNS's subdomain assets.
+Please note that for subdomains (tier 3), will only pay out reports that have a high or critical severity.
+
+In Scope
+=========
+> \*.pns.hk/
+> \*.parknshop.com/",true,true,high,high,high,critical,,2022-08-02 02:04:41 UTC,2025-01-28 09:20:16 UTC
+https://www.iciparisxl.lu/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,medium,Wordpress,2023-03-14 15:04:44 UTC,2025-01-28 08:51:36 UTC
+media.iciparisxl.be,URL,This subdomain is used to store static content for the www.iciparisxl.be e-commerce website,true,true,,,,critical,,2024-08-29 07:49:11 UTC,2024-09-12 07:53:10 UTC
+api.marionnaud.ch,URL,"This is the API server for the www.marionnaud.ch e-commerce website.
+",true,true,,,,critical,,2024-09-25 07:57:56 UTC,2024-09-25 07:58:29 UTC
+https://www.marionnaud.ro/m-life/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,,2023-03-14 15:49:48 UTC,2023-07-13 09:22:22 UTC
+www10.watsons.com.my,URL,This is the API server for the Watsons Malaysia Mobile App,true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 13:35:50 UTC
+Drogas.Latvia.iOS,APPLE_STORE_APP_ID,"This is our Drogas (iOS) app in Latvia. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/lv/app/drogas/id1564705644",true,true,high,high,high,critical,,2024-09-12 14:09:41 UTC,2024-12-12 14:10:57 UTC
+https://www.kruidvat.be/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,medium,Wordpress,2023-03-14 14:25:51 UTC,2025-01-28 09:36:17 UTC
+Drogas (subdomains),OTHER,"This asset is specifically for Drogas' subdomain assets.
+Please note that for subdomains (tier 3), will only handle reports that have a high or critical severity.
+
+In scope
+=====================
+>\*.drogas.lv
+>\*.drogas.lt",true,true,medium,medium,medium,critical,,2024-09-12 14:01:18 UTC,2024-12-12 14:07:11 UTC
+api.iciparisxl.be,URL,This is the API server for the www.iciparisxl.be website,true,true,high,high,high,critical,,2023-09-12 08:27:17 UTC,2024-09-12 07:55:15 UTC
+medias.watsons.co.id,URL,This subdomain is used to store static content for the www.watsons.co.id e-commerce website.,true,true,,,,critical,,2024-08-29 11:36:03 UTC,2024-09-12 08:41:36 UTC
+app.iciparisxl.lu,URL,This is the API server of the ICI Paris XL mobile app in Luxembourg,true,true,high,high,high,critical,,2023-03-14 15:23:12 UTC,2023-07-13 09:22:16 UTC
+api.watsons.com.ph,URL,This is the API server for the www.watsons.com.ph website,true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 13:25:24 UTC
+www.drogas.lt,URL,"This is our Lithuanian online retail platform. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,,,,critical,,2024-12-12 14:24:24 UTC,2024-12-12 14:25:16 UTC
+ThePerfumeShop.App.Android,GOOGLE_PLAY_APP_ID,"This is our The Perfume Shop (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.theperfumeshop.customer",true,true,high,high,high,critical,,2023-03-14 16:20:27 UTC,2023-07-13 09:22:22 UTC
+api.watsons.vn,URL,This is the API server for the www.watsons.vn website,true,true,,,,critical,,2024-09-12 09:07:24 UTC,2024-09-12 09:07:42 UTC
+app.marionnaud.cz,URL,This is the API server of the Marionnaud mobile app in Czech Republic,true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+api.fortress.com.hk,URL,This is our API Server for our Fortress website (www.fortress.com.hk),true,true,,,,critical,,2024-08-29 12:09:55 UTC,2024-09-12 08:22:18 UTC
+api.watsons.co.th,URL,This is the API server for the www.watsons.co.th website,true,true,high,high,high,critical,,2023-03-17 10:21:22 UTC,2024-09-12 08:40:17 UTC
+https://www.theperfumeshop.com/ie/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,medium,Wordpress,2023-03-14 15:14:04 UTC,2025-01-28 08:45:26 UTC
+app.watsons.com.tr,URL,This hostname is used for the Watsons Turkey mobile app,true,true,high,high,high,critical,,2023-03-27 08:46:10 UTC,2024-09-12 08:06:36 UTC
+https://www.watsons.com.my/blog,URL,,false,false,low,low,low,medium,Wordpress,2023-10-11 08:58:25 UTC,2023-10-11 08:58:25 UTC
+media.drogas.lt,URL,This subdomain is used to store static content for the www.drogas.lt e-commerce website,true,true,,,,critical,,2024-12-12 14:24:24 UTC,2024-12-12 14:25:29 UTC
+https://www.kruidvat.nl/persoonlijk,URL,,true,true,low,low,low,medium,,2023-03-14 13:58:12 UTC,2023-10-11 09:23:05 UTC
+Watsons TH (subdomains),OTHER,"This asset is specifically for Watsons TH's subdomain assets.
+Please note that for subdomains (tier 3), will only handle reports that have a high or critical severity.
+
+In Scope
+=========
+>*.watsons.co.th",true,true,medium,medium,medium,critical,,2023-03-27 09:41:48 UTC,2024-09-12 08:11:23 UTC
+www.moneyback.com.hk,URL,"MoneyBack has turned shopping into fantastic rewards for families across Hong Kong. If you are testing a functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-15 16:18:36 UTC,2023-07-13 09:22:32 UTC
+www.watsons.com.tw,URL,"This is our online retail platform for health and beauty products in Taiwan. 
+If you are testing a functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-17 10:10:20 UTC,2024-09-12 13:24:05 UTC
+media.iciparisxl.nl,URL,This subdomain is used to store static content for the www.iciparisxl.nl e-commerce website,true,true,,,,critical,,2024-08-29 07:46:57 UTC,2024-09-12 07:54:02 UTC
+media.marionnaud.ch,URL,This subdomain is used to store static content for the www.marionnaud.ch e-commerce website.,true,true,,,,critical,,2024-09-25 07:57:56 UTC,2024-09-25 07:58:40 UTC
+ThePerfumeShop.App.iOS,APPLE_STORE_APP_ID,"This is our The Perfume Shop (iOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+Appstore Link
+https://apps.apple.com/gb/app/the-perfume-shop/id1202206665",true,true,high,high,high,critical,,2023-03-14 16:20:27 UTC,2023-07-13 09:22:22 UTC
+medias.watsons.com.my,URL,This subdomain is used to store static content for the www.watsons.com.my e-commerce website.,true,true,,,,critical,,2024-08-29 11:29:50 UTC,2024-09-12 08:47:56 UTC
+https://www.marionnaud.it/m-life/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,,2023-03-14 15:49:48 UTC,2023-07-13 09:22:21 UTC
+app.iciparisxl.nl,URL,This is the API server of the ICI Paris XL mobile app in the Netherlands,true,true,high,high,high,critical,,2023-03-14 15:21:21 UTC,2023-07-13 09:22:15 UTC
+app.marionnaud.sk,URL,This is the API server of the Marionnaud mobile app in Slovakia,true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+api.watsons.com.tw,URL,This is the API server for the www.watsons.com.tw website,true,true,high,high,high,critical,,2023-03-17 10:10:20 UTC,2024-09-12 13:26:34 UTC
+Superdrug.App.IOS,OTHER_IPA,"This is our Superdrug Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App link: https://apps.apple.com/gb/app/superdrug/id1267896687",true,true,high,high,high,critical,,2023-03-14 14:45:56 UTC,2023-07-13 09:22:14 UTC
+ Watsons.TaiWan.Android,GOOGLE_PLAY_APP_ID,"This is our Watsons TaiWan Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=tw.com.watsons.app",true,true,high,high,high,critical,,2023-03-17 05:30:05 UTC,2023-07-13 09:22:36 UTC
+Drogas.Lietuva.Android,GOOGLE_PLAY_APP_ID,"This is our Drogas (Android) app in Lithuania. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=lt.drogas.consumer",true,true,,,,critical,,2024-12-12 14:24:24 UTC,2024-12-12 14:45:17 UTC
+Watsons.Thailand.Android,GOOGLE_PLAY_APP_ID,"This is our Watsons Thailand Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.mtelnet.watson.thailand",true,true,high,high,high,critical,,2023-03-17 05:30:06 UTC,2023-07-13 09:22:37 UTC
+Watsons TR (subdomains),OTHER,"This asset is specifically for Watsons TR' subdomain assets.
+Please note that for subdomains (tier 3), will only handle reports that have a high or critical severity.
+
+In scope
+=====================
+>\*.watsons.com.tr",true,true,medium,medium,medium,critical,,2023-03-27 09:35:39 UTC,2024-09-12 08:08:22 UTC
+PNS.HongKong.iOS,APPLE_STORE_APP_ID,"This is our PNS Mobile (iOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://apps.apple.com/hk/app/parknshop/id840837558",true,true,high,high,high,critical,,2023-03-15 16:10:51 UTC,2023-07-13 09:22:31 UTC
+Watsons.Singapore.IOS,APPLE_STORE_APP_ID,"This is our Watsons Singapore Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/hk/app/watsons-sg-the-official-app/id449412168",true,true,high,high,high,critical,,2023-03-17 02:17:38 UTC,2023-07-13 09:22:35 UTC
+Watsons.Philippines.Android,GOOGLE_PLAY_APP_ID,"This is our Watsons Philippines Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.mtelnet.watson.ph",true,true,high,high,high,critical,,2023-03-17 05:30:06 UTC,2023-07-13 09:22:36 UTC
+media.superdrug.com,URL,This subdomain is used to store static content for the www.superdrug.com e-commerce website,true,true,,,,critical,,2024-08-29 07:35:58 UTC,2024-09-12 07:43:50 UTC
+api.watsons.com.hk,URL,This is the API server for the www.watsons.com.hk website,true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 13:25:52 UTC
+medias.watsons.com.ph,URL,This subdomain is used to store static content for the www.watsons.com.ph e-commerce website.,true,true,,,,critical,,2024-08-29 11:36:50 UTC,2024-09-12 13:51:07 UTC
+www.drogas.lv,URL,"This is our Latvian online retail platform. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2024-08-29 12:03:42 UTC,2024-09-12 07:39:25 UTC
+Watsons SG (subdomains),OTHER,"This asset is specifically for Watsons Singapore subdomain assets.
+Please note that for subdomains (tier 3), will only handle reports that have a high or critical severity.
+
+In Scope
+=========
+>*.watsons.com.sg",true,true,medium,medium,medium,critical,,2023-04-06 08:35:44 UTC,2024-09-12 13:39:38 UTC
+Marionnaud.Switzerland.iOS,APPLE_STORE_APP_ID,"This is our Marionnaud (iOS) app in Switzerland. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/ch/app/id1486316902",true,true,high,high,high,critical,,2023-03-15 14:26:17 UTC,2023-07-13 09:22:24 UTC
+www.fortress.com.hk,URL,"Fortress is one of our leading e-commerce websites in Hong Kong and Macau.
+Customers could shop for electrical appliances after paying their electricity bills. If you are testing functionalities that require you to be authenticated,
+please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-17 10:10:20 UTC,2023-07-13 09:22:38 UTC
+www10.fortress.com.hk,URL,This is the API server for the Fortress Mobile App,true,true,,,,critical,,2024-08-29 12:09:43 UTC,2024-09-12 08:22:30 UTC
+www10.watsons.vn,URL,This is the API server of the Watsons Vietnam Mobile App,true,true,,,,critical,,2024-09-12 09:07:24 UTC,2024-09-12 13:34:41 UTC
+api.watsons.com.my,URL,This is the API server for the www.watsons.com.my website,true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 08:47:36 UTC
+MoneyBack.HongKong.Android,GOOGLE_PLAY_APP_ID,"This is our MoneyBack Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=com.asw.moneyback",true,true,high,high,high,critical,,2023-03-15 16:18:36 UTC,2023-07-13 09:22:32 UTC
+Trekpleister (subdomains),OTHER,"This asset is specifically for Trekpleister's subdomain assets.
+Please note that for subdomains (tier 3), will only handle reports that have a high or critical severity.
+
+In scope
+=====================
+>\*.trekpleister.nl",true,true,medium,medium,medium,critical,,2024-02-21 12:00:38 UTC,2024-09-12 13:41:17 UTC
+https://www.superdrug.com/blog/,URL,This is our Blog section of the website that runs on Wordpress,false,true,medium,medium,medium,medium,Wordpress,2023-03-14 15:06:46 UTC,2025-01-28 09:35:36 UTC
+api.watsons.com.sg,URL,This is the API server for the www.watsons.com.sg website,true,true,high,high,high,critical,,2023-03-17 10:10:20 UTC,2024-09-12 13:26:09 UTC
+media.drogas.lv,URL,This subdomain is used to store static content for the www.drogas.lv e-commerce website,true,true,,,,critical,,2024-08-29 12:03:41 UTC,2024-09-12 07:39:09 UTC
+MoneyBack.HongKong.iOS,APPLE_STORE_APP_ID,"This is our MoneyBack Mobile (iOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://apps.apple.com/hk/app/moneyback/id1230818544",true,true,high,high,high,critical,,2023-03-15 16:18:36 UTC,2023-07-13 09:22:32 UTC
+Watsons TW (subdomains),OTHER,"This asset is specifically for Watsons TW's subdomain assets.
+Please note that for subdomains (tier 3), will only handle reports that have a high or critical severity.
+
+In Scope
+=========
+>*.watsons.com.tw/",true,true,high,high,high,critical,,2022-12-08 10:03:42 UTC,2023-01-25 09:24:57 UTC
+https://www.kruidvat.nl/fotoservice,URL,,true,true,low,low,low,medium,,2023-10-11 09:00:12 UTC,2023-10-11 09:00:12 UTC
+Watsons.HongKong.Android,GOOGLE_PLAY_APP_ID,"This is our Watsons HongKong Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.ndn.android.watsons",true,true,high,high,high,critical,,2023-03-17 05:30:05 UTC,2023-07-13 09:22:36 UTC
+www.watsons.com.my,URL,"This is our online retail platform for health and beauty products in Malaysia. 
+If you are testing a functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 13:21:43 UTC
+www.theperfumeshop.com,URL,"The Perfume Shop is one of our leading e-commerce perfumery websites. If you are testing functionalities that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-14 15:13:52 UTC,2023-07-13 09:22:15 UTC
+Fortress.HongKong.Android,GOOGLE_PLAY_APP_ID,"This is our Fortress Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=fortress.fortressapp",true,true,high,high,high,critical,,2023-03-17 05:30:05 UTC,2023-07-13 09:22:36 UTC
+app.kruidvat.nl,URL,This is the API server of the Kruidvat Mobile App in the Netherlands,true,true,high,high,high,critical,,2023-03-14 15:18:21 UTC,2023-07-13 09:22:15 UTC
+www.iciparisxl.nl,URL,"This is our Dutch online Perfumery. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+
+This website is similar to other websites (Such as Superdrug and Kruidvat). Please keep in mind that issues might be considered duplicates if it is reported on another website already.",true,true,high,high,high,critical,"Akamai DDOS, apache, SAP Hybris, Java, JavaScript, Oracle RDBMS, Spring",2023-03-14 14:58:38 UTC,2023-07-13 09:22:15 UTC
+api.superdrug.com,URL,This is the API server for the superdrug.com website,true,true,high,high,high,critical,,2023-03-14 15:25:16 UTC,2023-07-13 09:22:16 UTC
+Marionnaud.France.iOS,APPLE_STORE_APP_ID,"This is our Marionnaud (iOS) app in France. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/fr/app/marionnaud-beaut%C3%A9-soins/id1127368763",true,true,high,high,high,critical,,2023-03-27 08:42:11 UTC,2024-04-24 11:26:48 UTC
+www.marionnaud.at,URL,"This is our online Austrian perfumery. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+Drogas.Latvia.Android,GOOGLE_PLAY_APP_ID,"This is our Drogas (Android) app in Latvia. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=lv.drogas.consumer",true,true,high,high,high,critical,,2024-09-12 14:09:41 UTC,2024-12-12 14:10:45 UTC
+Marionnaud.Austria.iOS,APPLE_STORE_APP_ID,"This is our Marionnaud (iOS) app in Austria. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/gb/app/marionnaud-%C3%B6sterreich/id1114541888
+",true,true,high,high,high,critical,,2023-03-15 14:26:17 UTC,2023-07-13 09:22:25 UTC
+www10.pns.hk,URL,This is the API server for the PNS Mobile App,true,true,high,high,high,critical,,2023-03-15 16:10:51 UTC,2023-07-13 09:22:31 UTC
+www.trekpleister.nl,URL,,true,true,high,high,high,critical,,2024-02-21 10:00:03 UTC,2024-02-21 10:00:03 UTC
+api.iciparisxl.nl,URL,This is the API server for the www.iciparisxl.lu website,true,true,high,high,high,critical,,2023-09-12 08:27:17 UTC,2024-09-12 07:54:57 UTC
+medias.watsons.vn,URL,This subdomain is used to store static content for the www.watsons.vn e-commerce website.,true,true,,,,critical,,2024-08-29 11:44:58 UTC,2024-09-12 11:25:31 UTC
+https://www.marionnaud.ch/m-life/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,,2023-03-14 15:49:48 UTC,2023-07-13 09:22:21 UTC
+Watsons.Malaysia.IOS,APPLE_STORE_APP_ID,"This is our Watsons Malaysia Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/hk/app/watsons-my/id1112796292",true,true,high,high,high,critical,,2023-03-17 02:17:38 UTC,2023-07-13 09:22:35 UTC
+www.watsons.co.id,URL,"This is our online retail platform for health and beauty products in Indonesia. 
+If you are testing a functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 13:19:24 UTC
+api.marionnaud.at,URL,This is the API server for the www.marionnaud.at e-commerce website.,true,true,,,,critical,,2024-09-12 08:03:57 UTC,2024-09-25 07:59:09 UTC
+app.kruidvat.be,URL,This is the API server of the Kruidvat Mobile App in Belgium,true,true,high,high,high,critical,,2023-03-14 15:20:19 UTC,2023-07-13 09:22:15 UTC
+https://www.marionnaud.at/m-life/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,,2023-03-14 15:49:48 UTC,2023-07-13 09:22:21 UTC
+Watsons.Indonesia.IOS,APPLE_STORE_APP_ID,"This is our Watsons Indonesia Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://apps.apple.com/hk/app/watsons-id/id1184851346",true,true,high,high,high,critical,,2023-03-17 02:17:38 UTC,2023-07-13 09:22:35 UTC
+www10.watsons.co.id,URL,This is the API server for the Watsons Indonesia Mobile App,true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 13:37:25 UTC
+www20.watsons.co.th,URL,,true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2023-07-13 09:22:39 UTC
+Marionnaud.France.Android,GOOGLE_PLAY_APP_ID,"This is our Marionnaud (Android) app in France. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=com.marionnaud.marionnaudfrance",true,true,high,high,high,critical,,2023-03-27 08:42:10 UTC,2024-04-24 11:26:36 UTC
+www10.watsons.com.tw,URL,This is the API server for the Watsons Taiwan Mobile App,true,true,high,high,high,critical,,2023-03-17 10:10:20 UTC,2024-09-12 13:34:58 UTC
+api.marionnaud.fr,URL,This is the API server for the www.marionnaud.fr website,true,true,,,,critical,,2024-04-24 11:23:01 UTC,2024-09-12 07:59:29 UTC
+www.kruidvat.nl,URL,"This is our Dutch online retail platform. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+
+This website is similar to other websites (Such as Superdrug). Please keep in mind that issues might be considered duplicates if it is reported on another website already.",true,true,,,,critical,"Akamai DDOS, apache, Java, JavaScript, Oracle RDBMS, SAP Hybris, Spring",2023-03-14 13:58:44 UTC,2023-07-13 09:22:14 UTC
+ICIParisXL.App.IOS,APPLE_STORE_APP_ID,"This is our ICI Paris XL (iOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App link:
+https://apps.apple.com/nl/app/ici-paris-xl-beauty/id1061895392
+
+",true,true,high,high,high,critical,,2023-03-14 16:12:28 UTC,2023-07-13 09:22:22 UTC
+Marionnaud.Italy.iOS,APPLE_STORE_APP_ID,"This is our Marionnaud (iOS) app in Italy. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/it/app/marionnaud/id883671274",true,true,high,high,high,critical,,2023-03-15 14:18:44 UTC,2023-07-13 09:22:23 UTC
+api.theperfumeshop.com,URL,This is the API server for the www.theperfumeshop.com website,true,true,high,high,high,critical,,2023-09-12 08:22:37 UTC,2024-09-12 07:46:48 UTC
+Watsons PH (subdomains),OTHER,"This asset is specifically for Watsons Philippines subdomain assets.
+Please note that for subdomains (tier 3), will only handle reports that have a high or critical severity.
+
+In Scope
+=========
+>*.watsons.com.ph/",true,true,high,high,high,critical,,2022-11-29 15:26:21 UTC,2023-01-25 09:24:57 UTC
+www10.watsons.com.sg,URL,This is the API server for the Watsons Singapore Mobile App,true,true,high,high,high,critical,,2023-03-17 10:10:20 UTC,2024-09-12 13:35:12 UTC
+www.marionnaud.cz,URL,"This is our online Czech perfumery. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+media.marionnaud.fr,URL,This subdomain is used to store static content for the www.marionnaud.fr e-commerce website.,true,true,,,,critical,,2024-08-29 09:20:40 UTC,2024-09-12 07:59:58 UTC
+https://www.marionnaud.at/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,Wordpress,2023-03-14 15:49:48 UTC,2023-07-13 09:22:21 UTC
+www.pns.hk,URL,"PNS is our leading e-commerce website for every day items in Hong Kong. If you are testing functionalities that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-15 16:10:51 UTC,2023-07-13 09:22:31 UTC
+Watsons ID (subdomains),OTHER,"This asset is specifically for Watsons Indonesia subdomain assets.
+Please note that for subdomains (tier 3), will only handle reports that have a high or critical severity.
+
+In Scope
+=========
+>*.watsons.co.id",true,true,medium,medium,medium,critical,,2023-04-06 08:38:31 UTC,2024-09-12 13:42:04 UTC
+https://www.marionnaud.sk/m-life/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,,2023-03-14 15:49:48 UTC,2023-07-13 09:22:22 UTC
+www.watsons.vn,URL,"This is our online retail platform for health and beauty products in Vietnam. If you are testing a functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,,,,critical,,2024-09-12 09:07:24 UTC,2024-09-12 13:14:45 UTC
+www.superdrug.com,URL,"This is our online retail platform. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,"Akamai DDOS, apache, Java, JavaScript, Oracle RDBMS, SAP Hybris, Spring, English, Angular",2020-07-06 15:59:55 UTC,2023-03-14 14:42:45 UTC
+PNS.HongKong.Android,GOOGLE_PLAY_APP_ID,"This is our PNS Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.parknshop.parknshopapp",true,true,high,high,high,critical,,2023-03-15 16:10:51 UTC,2023-07-13 09:22:31 UTC
+Watsons HK (subdomains),OTHER,"This asset is specifically for Watsons HK's subdomain assets.
+Please note that for subdomains (tier 3), will only pay out reports that have a high or critical severity.
+
+In Scope
+=========
+>*.watsons.com.hk/",true,true,high,high,high,critical,,2022-09-01 08:23:54 UTC,2025-01-28 09:24:04 UTC
+Watsons.TaiWan.IOS,APPLE_STORE_APP_ID,"This is our Watsons TaiWan Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/hk/app/%E5%B1%88%E8%87%A3%E6%B0%8F%E5%8F%B0%E7%81%A3/id477968775",true,true,high,high,high,critical,,2023-03-17 02:17:38 UTC,2023-07-13 09:22:35 UTC
+Marionnaud.Austria.Android,GOOGLE_PLAY_APP_ID,"This is our Marionnaud (Android) app in Austria. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=at.marionnaud.customer",true,true,high,high,high,critical,,2023-03-15 14:26:17 UTC,2024-04-24 10:14:46 UTC
+medias.watsons.com.sg,URL,This subdomain is used to store static content for the www.watsons.com.sg e-commerce website.,true,true,,,,critical,,2024-08-29 11:40:44 UTC,2024-09-12 13:51:26 UTC
+media.marionnaud.at,URL,This subdomain is used to store static content for the www.marionnaud.at e-commerce website.,true,true,,,,critical,,2024-09-25 07:57:56 UTC,2024-09-25 07:59:22 UTC
+api.drogas.lv,URL,This is the API server of the Drogas mobile app in Latvia,true,true,,,,critical,,2024-08-29 12:03:41 UTC,2024-09-12 07:37:01 UTC
+Moneyback (subdomains),OTHER,"This asset is specifically for Moneyback's subdomain assets.
+Please note that for subdomains (tier 3), will only pay out reports that have a high or critical severity.
+
+In Scope
+=========
+> *.moneyback.com.hk/",true,true,high,high,high,critical,,2022-11-15 09:41:19 UTC,2025-01-28 09:19:39 UTC
+api.pns.hk,URL,This is our API Server for our PNS website (www.pns.hk),true,true,high,high,high,critical,,2023-03-15 16:10:51 UTC,2023-07-13 09:22:31 UTC
+app.drogas.lt,URL,This is the API server of the Drogas Lithuania mobile app,true,true,,,,critical,,2024-12-12 14:24:24 UTC,2024-12-12 14:24:50 UTC
+Superdrug.App.Android,GOOGLE_PLAY_APP_ID,"This is our Superdrug Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App link: https://play.google.com/store/apps/details?id=superdrug.com.beautycard&hl=en",true,true,high,high,high,critical,,2020-12-02 08:59:56 UTC,2023-03-14 14:45:46 UTC
+media.theperfumeshop.com,URL,This subdomain is used to store static content for the www.theperfumeshop.com e-commerce website,true,true,,,,critical,,2024-08-29 13:02:28 UTC,2024-09-12 07:47:50 UTC
+https://www.marionnaud.sk/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,Wordpress,2023-03-14 15:49:48 UTC,2023-07-13 09:22:22 UTC
+Watsons.Indonesia.Android,GOOGLE_PLAY_APP_ID,"This is our Watsons Indonesia Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.watsons.id.android",true,true,,,,critical,,2023-03-17 05:30:06 UTC,2023-03-17 05:30:06 UTC
+eflow.watsons.com.tw/,URL,,false,false,none,none,none,none,,2023-05-12 10:50:50 UTC,2023-07-13 09:25:02 UTC
+www10.watsons.com.ph,URL,This is the API server for the Watsons Philippines Mobile App,true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 13:35:35 UTC
+app.drogas.lv,URL,This is the API server of the Drogas Latvia mobile app.,true,true,,,,critical,,2024-08-29 12:03:41 UTC,2025-02-27 08:32:30 UTC
+www.marionnaud.sk,URL,"This is our online Slovakian perfumery. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+app.marionnaud.ch,URL,This is the API server of the Marionnaud mobile app in Switzerland,true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+Watsons.Thailand.IOS,APPLE_STORE_APP_ID,"This is our Watsons Thailand Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/hk/app/watsons-th/id619935224",true,true,high,high,high,critical,,2023-03-17 02:17:38 UTC,2023-07-13 09:22:35 UTC
+api.iciparisxl.lu,URL,This is the API server for the www.iciparisxl.lu website,true,true,high,high,high,critical,,2023-09-12 08:27:17 UTC,2024-09-12 07:54:25 UTC
+medias.fortress.com.hk,URL,This subdomain is used to store static content for the www.fortress.com.hk e-commerce website.,true,true,,,,critical,,2024-08-29 11:46:04 UTC,2024-09-12 08:21:53 UTC
+ Fortress.HongKong.IOS,APPLE_STORE_APP_ID,"This is our MoneyBack Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://apps.apple.com/hk/app/fortress/id1133110850",true,true,high,high,high,critical,,2023-03-17 01:49:11 UTC,2023-07-13 09:22:35 UTC
+Watsons.Turkey.Android,GOOGLE_PLAY_APP_ID,"This is our Watsons (Android) app in Turkey. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=com.mobular.watsons",true,true,high,high,high,critical,,2023-03-27 08:45:48 UTC,2024-09-12 08:24:39 UTC
+Watsons MY (subdomains),OTHER,"This asset is specifically for Watsons Malaysia subdomain assets.
+Please note that for subdomains (tier 3), will only handle reports that have a high or critical severity.
+
+In Scope
+=========
+>*.watsons.com.my/",true,true,high,high,high,critical,,2022-10-03 02:30:17 UTC,2023-01-25 09:24:56 UTC
+www.marionnaud.ro,URL,"This is our online Romanian perfumery. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+https://www.drogas.lv/ru/blog,URL,This is our wordpress blog for Drogas Latvia,true,true,low,low,low,medium,Wordpress,2024-08-29 12:03:41 UTC,2024-09-12 07:38:43 UTC
+www.iciparisxl.be,URL,"This is our Belgium online Perfumery. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+This website is similar to other websites (Such as Superdrug and Kruidvat). Please keep in mind that issues might be considered duplicates if it is reported on another website already.",true,true,high,high,high,critical,,2023-03-14 15:00:09 UTC,2023-07-13 09:22:15 UTC
+ICIParisXL.App.Android,GOOGLE_PLAY_APP_ID,"This is our ICI Paris XL (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App link:
+https://play.google.com/store/apps/details?id=com.iciparisxl.app",true,true,high,high,high,critical,,2023-03-14 16:15:35 UTC,2023-07-13 09:22:22 UTC
+app.marionnaud.fr,URL,This is the API server of the Marionnaud mobile app in France	,true,true,,,,critical,,2023-03-27 08:42:10 UTC,2024-09-12 07:59:40 UTC
+www.marionnaud.it,URL,"This is our online Italian perfumery. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+app.marionnaud.at,URL,This is the API server of the Marionnaud mobile app in Austria,true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+Watsons.Malaysia.Android,GOOGLE_PLAY_APP_ID,"This is our Watsons Malaysia Mobile (Android) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://play.google.com/store/apps/details?id=com.watsons.mcommerce",true,true,high,high,high,critical,,2023-03-17 05:30:06 UTC,2023-07-13 09:22:36 UTC
+api.marionnaud.it,URL,This is the API server for the www.marionnaud.it e-commerce website.,true,true,,,,critical,,2024-08-29 09:49:52 UTC,2024-09-12 07:48:23 UTC
+www10.watsons.co.th,URL,This is the API server for the Watsons Thailand Mobile App,true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 13:37:11 UTC
+Marionnaud (subdomains),OTHER,"This asset is specifically for Marionnauds' subdomain assets.
+Please note that for subdomains (tier 3), will only handle reports that have a high or critical severity.
+
+In scope
+=====================
+>\*.marionnaud.it
+>\*.marionnaud.fr
+>\*.marionnaud.ch
+>\*.marionnaud.ro
+>\*.marionnaud.hu
+>\*.marionnaud.sk
+>\*.marionnaud.cz
+",true,true,medium,medium,medium,critical,,2023-03-27 09:38:35 UTC,2024-09-12 13:49:45 UTC
+Drogas.Lietuva.iOS,APPLE_STORE_APP_ID,This is our Drogas (iOS) app in Lithuania. Please make sure to consult our policy page to see which items are out of scope for mobile apps.,true,true,,,,critical,,2024-12-12 14:24:24 UTC,2024-12-12 14:45:29 UTC
+medias.watsons.co.th,URL,This subdomain is used to store static content for the www.watsons.co.th e-commerce website.,true,true,,,,critical,,2024-08-29 11:35:11 UTC,2024-09-12 08:41:21 UTC
+Watsons VN (subdomains),OTHER,"This asset is specifically for Watsons VN subdomain assets.
+Please note that for subdomains (tier 3), will only handle reports that have a high or critical severity.
+
+In Scope
+=========
+>*.watsons.vn/",true,true,,,,critical,,2024-09-12 13:58:58 UTC,2024-09-12 13:59:50 UTC
+medias.pns.hk,URL,This subdomain is used to store static content for the www.pns.hk e-commerce website.,true,true,,,,critical,,2024-08-29 11:45:33 UTC,2024-09-12 08:12:57 UTC
+Superdrug (subdomains),OTHER,"This asset is specifically for Superdrug's subdomain assets.
+Please note that for subdomains (tier 3), will only pay out reports that have a high or critical severity.
+
+In scope
+=====================
+>*.superdrug.com/
+
+Out of scope
+=====================
+>https://appt.healthclinics.superdrug.com/
+>https://healthclinics.superdrug.com/",true,true,high,high,high,critical,,2022-03-08 10:38:04 UTC,2025-01-28 09:21:36 UTC
+Kruidvat.Netherlands.Android,GOOGLE_PLAY_APP_ID,"This is our Dutch online retail mobile app. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+This app is similar to other apps (Such as Superdrug). Please keep in mind that issues might be considered duplicates if it is reported on another website already.
+App Link
+https://play.google.com/store/apps/details?id=nl.kruidvat.voordeelkaart",true,true,high,high,high,critical,,2023-03-15 16:24:41 UTC,2023-07-13 09:22:32 UTC
+ICI Paris XL (subdomains),OTHER,"ICI Paris XL (subdomains)
+
+This asset is specifically for ICI Paris XL's subdomain assets.
+Please note that for subdomains (tier 3), will only pay out reports that have a high or critical severity.
+
+In scope
+=====================
+>\*.iciparisxl.nl/
+>\*.iciparisxl.be/
+>\*.iciparisxl.lu/",true,true,high,high,high,critical,,2022-05-05 13:58:22 UTC,2025-01-28 09:17:35 UTC
+https://www.marionnaud.cz/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,Wordpress,2023-03-14 15:49:48 UTC,2023-07-13 09:22:21 UTC
+https://www.marionnaud.hu/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,Wordpress,2023-03-14 15:49:48 UTC,2023-07-13 09:22:21 UTC
+www.marionnaud.ch,URL,"This is our online Swiss perfumery. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+https://www.drogas.lt/blog,URL,This is our Wordpress blog for Drogas Lithuania,true,true,,,,critical,,2024-12-12 14:24:24 UTC,2024-12-12 14:25:05 UTC
+api.drogas.lt,URL,This is the API server of the Drogas mobile app in Lithuania,true,true,,,,critical,,2024-12-12 14:24:24 UTC,2024-12-12 14:24:40 UTC
+www.marionnaud.hu,URL,"This is our online Hungarian perfumery. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-14 15:38:45 UTC,2023-07-13 09:22:17 UTC
+app.iciparisxl.be,URL,This is the API server of the ICI Paris XL mobile app in Belgium,true,true,high,high,high,critical,,2023-03-14 15:23:12 UTC,2023-07-13 09:22:16 UTC
+www.iciparisxl.lu,URL,"This is our Belgium online Perfumery. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+This website is similar to other websites (Such as Superdrug and Kruidvat). Please keep in mind that issues might be considered duplicates if it is reported on another website already.",true,true,high,high,high,critical,,2023-03-14 15:01:17 UTC,2023-07-13 09:22:15 UTC
+Marionnaud.Romania.iOS,APPLE_STORE_APP_ID,"This is our Marionnaud (iOS) app in Romania. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/ro/app/marionnaud-romania/id1021924260",true,true,high,high,high,critical,,2023-03-15 14:26:17 UTC,2023-07-13 09:22:24 UTC
+app.theperfumeshop.com,URL,This is the new API server of The Perfume Shop mobile app,true,true,high,high,high,critical,,2023-09-12 08:20:07 UTC,2024-09-12 07:46:29 UTC
+https://www.marionnaud.ch/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,Wordpress,2023-03-14 15:49:48 UTC,2023-07-13 09:22:21 UTC
+Kruidvat.Netherlands.iOS,APPLE_STORE_APP_ID,"This is our Dutch online retail mobile app. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+This app is similar to other apps (Such as Superdrug). Please keep in mind that issues might be considered duplicates if it is reported on another website already.
+App Link
+https://itunes.apple.com/nl/app/kruidvat-mobiele-app/id531631058",true,true,high,high,high,critical,,2023-03-15 16:24:41 UTC,2023-07-13 09:22:32 UTC
+api.watsons.co.id,URL,This is the API server for the www.watsons.co.id website,true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 08:39:40 UTC
+form.watsons.com.my,URL,,false,false,high,high,high,critical,,2023-09-27 10:01:27 UTC,2023-09-27 10:01:27 UTC
+https://www.drogas.lv/lv/blog,URL,This is our wordpress blog for Drogas Latvia,true,true,low,low,low,medium,Wordpress,2024-08-29 12:03:41 UTC,2024-09-12 07:38:33 UTC
+medias.watsons.com.tw,URL,This subdomain is used to store static content for the www.watsons.com.tw e-commerce website.,true,true,,,,critical,,2024-08-29 11:34:32 UTC,2024-09-12 13:52:04 UTC
+The Perfume Shop (subdomains),OTHER,"The Perfume Shop (subdomains)
+
+This asset is specifically for The Perfume Shop's subdomain assets.
+Please note that for subdomains (tier 3), will only pay out reports that have a high or critical severity.
+
+In scope
+=====================
+>\*.theperfumeshop.com/",true,true,high,high,high,critical,,2022-07-19 09:33:24 UTC,2025-01-28 09:22:25 UTC
+www10.watsons.com.hk,URL,This is the API server for the Watsons Hong Kong Mobile App,true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 13:36:52 UTC
+https://www.theperfumeshop.com/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,medium,Wordpress,2023-03-14 15:14:04 UTC,2025-01-28 09:35:59 UTC
+www.kruidvat.be,URL,"This is our Dutch online retail platform. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+This website is similar to other websites (Such as Superdrug). Please keep in mind that issues might be considered duplicates if it is reported on another website already.",true,true,high,high,high,critical,,2023-03-14 14:25:39 UTC,2023-07-13 09:22:14 UTC
+Marionnaud.Switzerland.Android,GOOGLE_PLAY_APP_ID,"This is our Marionnaud (Android) app in Switzerland. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=ch.marionnaud.customer",true,true,high,high,high,critical,,2023-03-15 14:26:17 UTC,2023-07-13 09:22:24 UTC
+Watsons.Turkey.iOS,APPLE_STORE_APP_ID,"This is our Watsons (iOS) app in Turkey. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+https://apps.apple.com/app/watsons-t%C3%BCrkiye/id1507132907",true,true,high,high,high,critical,,2023-03-27 08:45:48 UTC,2024-09-12 08:25:28 UTC
+Kruidvat (subdomains),OTHER,"This asset is specifically for Kruidvat's subdomain assets.
+Please note that for subdomains (tier 3), will only handle reports that have a high or critical severity.
+
+In scope
+=====================
+>\*.kruidvat.nl/
+>\*.kruidvat.be/
+",true,true,high,high,high,critical,,2022-03-08 10:37:17 UTC,2023-01-25 09:24:55 UTC
+https://www.marionnaud.cz/m-life/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,,2023-03-14 15:49:48 UTC,2023-07-13 09:22:21 UTC
+www.marionnaud.fr,URL,"This is our online France perfumery. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-27 08:42:10 UTC,2024-04-24 11:26:23 UTC
+media.marionnaud.it,URL,This subdomain is used to store static content for the www.marionnaud.it e-commerce website.,true,true,,,,critical,,2024-08-29 09:49:11 UTC,2024-09-12 07:48:46 UTC
+medias.watsons.com.hk,URL,This subdomain is used to store static content for the www.watsons.com.hk e-commerce website.,true,true,,,,critical,,2024-08-29 11:30:15 UTC,2024-09-12 13:51:42 UTC
+Marionnaud.Romania.Android,GOOGLE_PLAY_APP_ID,"This is our Marionnaud (Android) app in Romania. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://play.google.com/store/apps/details?id=ro.marionnaud.customer",true,true,high,high,high,critical,,2023-03-15 14:26:17 UTC,2023-07-13 09:22:25 UTC
+www.watsons.com.ph,URL,"This is our online retail platform for health and beauty products in the Philippines. 
+If you are testing a functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.",true,true,high,high,high,critical,,2023-03-17 10:10:21 UTC,2024-09-12 13:23:00 UTC
+Kruidvat.Belgium.Android,GOOGLE_PLAY_APP_ID,"This is our Dutch online retail mobile app for Belgium customers. If you are testing functionality that requires you to be authenticated, please ensure you register with your @wearehackerone.com email address.
+This app is similar to other apps (Such as Superdrug). Please keep in mind that issues might be considered duplicates if it is reported on another website already.
+App Link
+https://play.google.com/store/apps/details?id=be.kruidvat.voordeelkaart",true,true,high,high,high,critical,,2023-03-15 16:24:41 UTC,2023-07-13 09:22:32 UTC
+https://www.drogas.lv/blog/,URL,This is our Wordpress blog for Drogas Latvia,true,true,low,low,low,medium,Wordpress,2024-08-29 12:03:41 UTC,2024-09-12 07:38:12 UTC
+media.iciparisxl.lu,URL,This subdomain is used to store static content for the www.iciparisxl.lu e-commerce website,true,true,,,,critical,,2024-08-29 07:50:46 UTC,2024-09-12 07:53:46 UTC
+Fortress (subdomains),OTHER,"This asset is specifically for Fortress's subdomain assets.
+Please note that for subdomains (tier 3), will only pay out reports that have a high or critical severity.
+
+In Scope
+=========
+> *.fortress.com.hk/
+",true,true,high,high,high,critical,,2022-08-02 02:04:09 UTC,2025-01-28 09:17:48 UTC
+https://www.marionnaud.ro/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,Wordpress,2023-03-14 15:49:48 UTC,2023-07-13 09:22:22 UTC
+Watsons.HongKong.IOS,APPLE_STORE_APP_ID,"This is our Watsons HongKong Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+
+App Link
+https://apps.apple.com/hk/app/%E5%B1%88%E8%87%A3%E6%B0%8F%E9%A6%99%E6%B8%AF/id479512803",true,true,high,high,high,critical,,2023-03-17 01:55:35 UTC,2023-07-13 09:22:35 UTC
+https://www.iciparisxl.nl/blog/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,medium,Wordpress,2023-03-14 15:02:44 UTC,2025-01-28 09:01:26 UTC
+Superdrug.Healthera.App.Android,GOOGLE_PLAY_APP_ID,"This is a third-party hosted Superdrug service. Please take extra caution testing this asset. Avoid making too many requests, and ensure that no bookings / reservations are made in production systems. Where possible, always use a @wearehackerone.com email address.
+
+App link: https://play.google.com/store/apps/details?id=com.healthera.healtheraapp.superdrug",false,true,,,,critical,,2023-03-14 14:50:39 UTC,2023-07-13 09:22:15 UTC
+Watsons.Philippines.IOS,APPLE_STORE_APP_ID,"This is our Watsons Philippines Mobile (IOS) app. Please make sure to consult our policy page to see which items are out of scope for mobile apps.
+App Link
+https://apps.apple.com/hk/app/watsons-philippines/id1438203234",true,true,high,high,high,critical,,2023-03-17 02:17:38 UTC,2023-07-13 09:22:35 UTC
+https://www.marionnaud.hu/m-life/,URL,This is our Blog section of the website that runs on Wordpress.,false,true,medium,medium,medium,critical,,2023-03-14 15:49:48 UTC,2023-07-13 09:22:21 UTC
