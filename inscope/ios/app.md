@@ -1,0 +1,15 @@
+https://apps.apple.com/it/app/marionnaud/id883671274
+https://apps.apple.com/ro/app/marionnaud-romania/id1021924260
+https://apps.apple.com/ch/app/id1486316902
+https://apps.apple.com/gb/app/marionnaud-%C3%B6sterreich/id1114541888
+https://apps.apple.com/app/watsons-t%C3%BCrkiye/id1507132907
+https://apps.apple.com/hk/app/%E5%B1%88%E8%87%A3%E6%B0%8F%E9%A6%99%E6%B8%AF/id479512803
+https://apps.apple.com/hk/app/watsons-id/id1184851346
+https://apps.apple.com/hk/app/watsons-philippines/id1438203234
+https://apps.apple.com/hk/app/%E5%B1%88%E8%87%A3%E6%B0%8F%E5%8F%B0%E7%81%A3/id477968775
+https://apps.apple.com/hk/app/watsons-th/id619935224
+https://apps.apple.com/hk/app/watsons-sg-the-official-app/id449412168
+https://apps.apple.com/lv/app/drogas/id1564705644
+https://apps.apple.com/hk/app/watsons-my/id1112796292
+https://apps.apple.com/lv/app/drogas/id1564705644
+https://apps.apple.com/hk/app/moneyback/id1230818544

@@ -1,0 +1,11 @@
+*.watsons.co.th
+*.watsons.com.my/
+*.marionnaud.it
+*.marionnaud.fr
+*.marionnaud.ch
+*.marionnaud.ro
+*.marionnaud.hu
+*.marionnaud.sk
+*.marionnaud.cz
+*.drogas.lv
+*.drogas.lt

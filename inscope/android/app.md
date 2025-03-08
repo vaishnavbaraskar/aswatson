@@ -1,0 +1,14 @@
+https://play.google.com/store/apps/details?id=tw.com.watsons.app
+https://play.google.com/store/apps/details?id=com.watsons.mcommerce
+https://play.google.com/store/apps/details?id=com.mtelnet.watson.ph
+https://play.google.com/store/apps/details?id=com.mtelnet.watson.thailand
+https://play.google.com/store/apps/details?id=it.marionnaud.customer
+https://play.google.com/store/apps/details?id=com.watsons.id.android
+https://play.google.com/store/apps/details?id=com.healthera.healtheraapp.superdrug
+https://play.google.com/store/apps/details?id=com.watsons.sg.android
+https://play.google.com/store/apps/details?id=at.marionnaud.customer
+https://play.google.com/store/apps/details?id=lt.drogas.consumer
+https://play.google.com/store/apps/details?id=ro.marionnaud.customer
+https://play.google.com/store/apps/details?id=com.mobular.watsons
+https://play.google.com/store/apps/details?id=ch.marionnaud.customer
+https://play.google.com/store/apps/details?id=com.asw.moneyback
